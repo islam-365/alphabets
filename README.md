@@ -1,3 +1,2 @@
 # alphabets
-# the email: ahmad@gmail.com
-# the password: 123456
+# make sure to choose the master branch 
